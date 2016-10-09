@@ -1,0 +1,25 @@
+<Seed Pos="10" Display="VirusTotal Private API">
+	<Url Visible="false">https://cetas.paterva.com/TDS/runner/showseed/VirusTotal</Url> <!--visible is optional, default "false"--> 
+	<Description>VirusTotal is the online file and URL scanner</Description> 
+	<Details>VirusTotal analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.</Details> 
+	<Modified>1476001350</Modified> <!-- unix time --> 
+	<Icon><!-- 48x48px png--> 
+		<Url>https://maltego-virustotal.herokuapp.com/images/transform_hub.png</Url> 
+	</Icon>
+	<Provider>
+		<Name>Christian Heinrich</Name>
+		<Website>https://www.virustotal.com/en/documentation/private-api/</Website>
+		<Email>christian.heinrich@cmlh.id.au</Email>
+		<Phone></Phone> 
+	</Provider>
+	<Registration>
+		<Website>https://www.virustotal.com/en/documentation/virustotal-community/#getting-started</Website>
+	</Registration>
+	<Pricing>
+		<Info>VirusTotal's private API is a premium billed service. Based on our customers' needs a set of query volume steps have been developed. Users pay a monthly fixed cost with independence of the number of requests so long as they stay within their chosen step, if they try to go over their licensed allowance the API will cap them. Please email contact@virustotal.com for the different pricing options.</Info>
+		<Website>https://www.virustotal.com/en/documentation/private-api/</Website>
+	</Pricing>
+	<Inputs> 
+		<!-- Examples... --> 
+	</Inputs> 
+</Seed>

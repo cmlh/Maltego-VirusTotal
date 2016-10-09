@@ -1,0 +1,11 @@
+Name:                VirusTotal Private API
+Seed URL:            https://cetas.paterva.com/TDS/runner/showseed/VirusTotal
+Description (short): VirusTotal is the online File and URL scanner.
+Description (long):  VirusTotal analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
+Icon URL:            https://maltego-virustotal.herokuapp.com/images/transform_hub.png
+Provider Name:       Christian Heinrich
+Provider website:    https://www.virustotal.com/en/documentation/private-api/
+Provider email:      christian.heinrich@cmlh.id.au
+Registration URL:    https://www.virustotal.com/en/documentation/virustotal-community/#getting-started
+Pricing Info:        VirusTotal's private API is a premium billed service. Based on our customers' needs a set of query volume steps have been developed. Users pay a monthly fixed cost with independence of the number of requests so long as they stay within their chosen step, if they try to go over their licensed allowance the API will cap them. Please email contact@virustotal.com for the different pricing options.
+Pricing Website:     https://www.virustotal.com/en/documentation/private-api/	       	
